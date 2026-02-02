@@ -1,0 +1,13 @@
+{
+  "name": "lab3-part2",
+  "version": "1.0.0",
+  "description": "COMP4537 Lab 3 Part B & C - GET server",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
